@@ -49,7 +49,7 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
 
 <h1 align="center">Let's Connect</h1>
 <p align="center">
-	<a href="mailto:chaitanyalonarkar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="mailto:ahmedsodan805@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/ahmed-soudan-a38144404/" target="_blank">
   <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
 </a>
