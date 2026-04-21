@@ -25,7 +25,7 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
 👨‍💻 Frontend Developer specializing in React.js  
 🎨 Proficient in Bootstrap & modern frontend tools  
 ⚡ Building responsive, fast, and clean web applications  
-🔗 Experienced with APIs, JavaScript (ES6+), React Router, and UI libraries  
+🔗 Experienced JavaScript (ES6+), React Router, and UI libraries  
 📚 Always learning and improving my development skills  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ---
