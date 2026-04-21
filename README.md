@@ -34,7 +34,8 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
 - HTML5 / CSS3  
 - JavaScript (ES6+)  
 - React.js  
-- Bootstrap  
+- Bootstrap
+- SASS
 - React Router  
 - Git & GitHub  
 
