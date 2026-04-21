@@ -17,7 +17,7 @@
 
 
 <h3 align="center">
-I'm a Front-End Developer from Egypt 🇪🇬 specializing in React ⚛️.  
+I'm a Front-End Developer from Egypt specializing in React ⚛️.  
 I build modern, responsive web applications and focus on clean UI & smooth user experience 🚀
 </h3>
 
