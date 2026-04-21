@@ -59,49 +59,20 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
 
 
 <br>
-<div  align="center" >
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaLonarkar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>
-  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaLonarkar&theme=blue_navy&hide_border=false" /><br/><br/>
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaLonarkar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div align="center">  
-
-<img loading="lazy" src="https://github-contributor-stats.vercel.app/api?username=ChaitanyaLonarkar&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" />
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
-<h1 align="center"> 🏆 GitHub Trophies </h1>
-<br>
-<p align="center"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaLonarkar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="ChaitanyaLonarkar" /></a> 
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
 <div align="center">
-<h1>GSSOC(24) Badges 🪶</h1>
-	<br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=dev-Ahmed-Younis&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>
+  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-Ahmed-Younis&theme=blue_navy&hide_border=false" /><br/><br/>
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Ahmed-Younis&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
 	
-![snake gif](https://github.com/ChaitanyaLonarkar/ChaitanyaLonarkar/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/dev-Ahmed-Younis/dev-Ahmed-Younis/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
