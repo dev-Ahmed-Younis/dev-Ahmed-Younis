@@ -1,21 +1,13 @@
-<!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/DhayanandhS) -->
 
 
 <div align="center">
-<!-- <img  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="html5" width="300" height="300"/> -->
-
-
-
+<img  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="html5" width="300" height="300"/>
 </div>
 <h1 align="center">Hi , I'm AHMED SOUDAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=500&height=50&center=true&lines=Front-End+Developer+💻;React+Developer+⚛️;Building+Modern+Web+🚀">
 </a>
-
-
-
-
 <h3 align="center">
 I'm a Front-End Developer from Egypt specializing in React ⚛️.  
 I build modern, responsive web applications and focus on clean UI & smooth user experience 🚀
@@ -23,16 +15,6 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
 
  <br />
 
-
-
-<!-- <div align="center">
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-[![Profile Hits](https://hits.sh/github.com/ChaitanyaLonarkar.svg)](https://hits.sh/github.com/ChaitanyaLonarkar/)
-</div> --> 
 
 
 - 🔭 I’m currently learning and working on MERN Stack (NextJs and Typescript)
@@ -68,11 +50,7 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
 <h1 align="center">Let's Connect</h1>
 <p align="center">
 	<a href="mailto:chaitanyalonarkar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://github.com/ChaitanyaLonarkar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://in.linkedin.com/in/chaitanya-lonarkar-581960244"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	 <a href="https://twitter.com/CLonarkar24"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a> 
-	 <a href="https://www.instagram.com/mr_perfect2409/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<!--<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+	<a href="www.linkedin.com/in/ahmed-soudan-a38144404"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn'   alt="LinkedIn"/></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
