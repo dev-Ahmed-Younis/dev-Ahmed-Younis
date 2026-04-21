@@ -17,9 +17,10 @@
 
 
 <h3 align="center">
-I'm a Front-End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. 
-	Besides my studies, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
+I'm a Front-End Developer from Egypt 🇪🇬 specializing in React ⚛️.  
+I build modern, responsive web applications and focus on clean UI & smooth user experience 🚀
 </h3>
+
  <br />
 
 
