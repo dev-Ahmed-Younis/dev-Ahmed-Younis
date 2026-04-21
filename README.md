@@ -10,18 +10,18 @@
 <h1 align="center">Hi , I'm AHMED SOUDAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=500&height=50&center=true&lines=Front-End+Developer+💻;React+Developer+⚛️;Building+Modern+Web+Apps+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=500&height=50&center=true&lines=Front-End+Developer+💻;React+Developer+⚛️;Building+Modern+Web+🚀">
 </a>
 
 
-<!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
+
 
 <h3 align="center">
-I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. 
+I'm a Front-End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. 
 	Besides my studies, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
 </h3>
  <br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 <!-- <div align="center">
