@@ -16,16 +16,6 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
  <br />
 
 
-
-- 🔭 I’m currently learning and working on MERN Stack (NextJs and Typescript)
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://chaitanyalonarkar.netlify.app/](https://chaitanyalonarkar.netlify.app/)
-
-- 📫 How to reach me **chaitanyalonarkar@gmail.com**
-
-- ⚡ Fun fact **I love solving escape rooms—great practice for debugging my code under pressure!**
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
   
