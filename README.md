@@ -59,20 +59,20 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
 
 
 <br>
-<div align="center">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=dev-Ahmed-Younis&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>
-  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-Ahmed-Younis&theme=blue_navy&hide_border=false" /><br/><br/>
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Ahmed-Younis&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
-
+<h1 align="center"> 📊 GitHub Stats  </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
-	
-![snake gif](https://github.com/dev-Ahmed-Younis/dev-Ahmed-Younis/blob/output/github-contribution-grid-snake-dark.svg)
+
+![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Ahmed-Younis&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Ahmed-Younis&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-Ahmed-Younis&theme=radical
+)  
+
 </div>
+
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
