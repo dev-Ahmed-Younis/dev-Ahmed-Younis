@@ -18,6 +18,31 @@ I build modern, responsive web applications and focus on clean UI & smooth user 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+# 👨‍💻 Ahmed Younis
+## 🚀 Frontend Developer (React.js)
+
+
+👨‍💻 Frontend Developer specializing in React.js  
+🎨 Proficient in Bootstrap & modern frontend tools  
+⚡ Building responsive, fast, and clean web applications  
+🔗 Experienced with APIs, JavaScript (ES6+), React Router, and UI libraries  
+📚 Always learning and improving my development skills  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
+
+## 🛠️ Tech Stack
+- HTML5 / CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Bootstrap  
+- React Router  
+- Git & GitHub  
+
+---
+
+## 📌 About Me
+Passionate about creating modern, responsive, and user-friendly web applications using React.js and frontend technologies.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
 <div align="center">
 <h1 >Languages and Tools 💻</h1>
